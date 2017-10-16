@@ -20,5 +20,5 @@ Just open the index page and starting exploring :)
 1 - Reduced the pizza quantity
 2 - Fixed some functions to make the code run faster
 
-![ScreenShot](https://github.com/Mltms/frontend-nanodegree-mobile-portfolio/blob/master/img/FPS.png)
-![ScreenShot](https://github.com/Mltms/frontend-nanodegree-mobile-portfolio/blob/master/img/Resize.png)
+![ScreenShot](https://github.com/Mltms/frontend-nanodegree-mobile-portfolio/blob/master/img/FPS.PNG)
+![ScreenShot](https://github.com/Mltms/frontend-nanodegree-mobile-portfolio/blob/master/img/Resize.PNG)
