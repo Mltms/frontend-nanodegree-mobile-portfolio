@@ -11,8 +11,8 @@ Just open the index page and starting exploring :)
 2 - Minify JavaScript
 3 - Minify CSS and HTML
 
-![ScreenShot](https://github.com/Mltms/frontend-nanodegree-mobile-portfolio/blob/master/img/computer-score.PNG)
-![ScreenShot](https://github.com/Mltms/frontend-nanodegree-mobile-portfolio/blob/master/img/Phone-score.PNG)
+![ScreenShot](computer-score.png)
+![ScreenShot](Phone-score.png)
 
 
 ## How to make pizza.html run on 90 fps and the slider under 5 ms ?
@@ -20,5 +20,5 @@ Just open the index page and starting exploring :)
 1 - Reduced the pizza quantity
 2 - Fixed some functions to make the code run faster
 
-![ScreenShot](https://github.com/Mltms/frontend-nanodegree-mobile-portfolio/blob/master/img/FPS.PNG)
-![ScreenShot](https://github.com/Mltms/frontend-nanodegree-mobile-portfolio/blob/master/img/Resize.PNG)
+![ScreenShot](FPS.png)
+![ScreenShot](Resize.png)
