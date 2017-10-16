@@ -12,7 +12,7 @@ Just open the index page and starting exploring :)
 3 - Minify CSS and HTML
 
 ![ScreenShot](computer-score.png)
-![ScreenShot](Phone-score.png)
+![ScreenShot](https://github.com/Mltms/frontend-nanodegree-mobile-portfolio/blob/master/img/Phone-score.PNG)
 
 
 ## How to make pizza.html run on 90 fps and the slider under 5 ms ?
