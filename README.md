@@ -11,7 +11,7 @@ Just open the index page and starting exploring :)
 2 - Minify JavaScript
 3 - Minify CSS and HTML
 
-![ScreenShot](computer-score.png)
+![ScreenShot](https://github.com/Mltms/frontend-nanodegree-mobile-portfolio/blob/master/img/computer-score.PNG)
 ![ScreenShot](https://github.com/Mltms/frontend-nanodegree-mobile-portfolio/blob/master/img/Phone-score.PNG)
 
 
@@ -20,5 +20,5 @@ Just open the index page and starting exploring :)
 1 - Reduced the pizza quantity
 2 - Fixed some functions to make the code run faster
 
-![ScreenShot](FPS.png)
-![ScreenShot](Resize.png)
+![ScreenShot](https://github.com/Mltms/frontend-nanodegree-mobile-portfolio/blob/master/img/FPS.png)
+![ScreenShot](https://github.com/Mltms/frontend-nanodegree-mobile-portfolio/blob/master/img/Resize.png)
